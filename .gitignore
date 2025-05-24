@@ -1,0 +1,48 @@
+## .NET / Visual Studio
+bin/
+obj/
+[Bb]uild/
+[Ll]ogs/
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Maui specific
+# Android build outputs
+platforms/android/app/build/
+platforms/android/.gradle/
+platforms/android/.idea/
+platforms/android/local.properties
+platforms/android/.cxx/
+
+# iOS/macOS build outputs
+platforms/ios/obj/
+platforms/ios/bin/
+platforms/maccatalyst/obj/
+platforms/maccatalyst/bin/
+
+# Generated code and intermediates
+**/Resources/Raw/*
+**/Resources/**/*.designer.cs
+*.apk
+*.aab
+*.app
+*.ipa
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Rider (JetBrains)
+.idea/
+
+# User secrets
+secrets.json
+
+# CSV files (optional – comment out if you want to track them)
+users.csv

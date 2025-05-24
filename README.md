@@ -12,19 +12,19 @@
 
 Table Of Contents
 
-[1\. Introduction 1](#_Toc199014689)
+[1\. Introduction](#_Toc199014689)
 
-[2\. Description 1](#_Toc199014690)
+[2\. Description](#_Toc199014690)
 
-[2.1. Design Decisions 1](#_Toc199014691)
+[2.1. Design Decisions](#_Toc199014691)
 
-[2.2. Development Decisions 2](#_Toc199014692)
+[2.2. Development Decisions](#_Toc199014692)
 
-[2.3. Class Diagram 2](#_Toc199014693)
+[2.3. Class Diagram](#_Toc199014693)
 
-[3\. Problems 3](#_Toc199014694)
+[3\. Problems](#_Toc199014694)
 
-[4\. Conclusions 3](#_Toc199014695)
+[4\. Conclusions](#_Toc199014695)
 
 # 1\. Introduction
 
